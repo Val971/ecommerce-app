@@ -1,0 +1,15 @@
+.cashout-form {
+    display: grid;
+    grid-template-columns: 1fr;
+    min-width: 30rem;
+    grid-row-gap: 2rem;
+}
+.cashout-content{
+    margin: 5rem;
+}
+.cart-list{
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    justify-content: flex-start;
+}
