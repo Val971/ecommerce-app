@@ -1,0 +1,15 @@
+.product {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin: 5rem;
+  
+    &-right-section {
+      &-img {
+        width: 25rem;
+      }
+    }
+    &-left-section{
+    display: grid;
+    }
+  }
+  
